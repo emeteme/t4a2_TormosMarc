@@ -1,0 +1,8 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.T4A2TormosMarc" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/purple</item>
+        <item name="colorSecondary">@color/lightPurple</item>
+        <item name="colorError">@color/red</item>
+    </style>
+</resources>
